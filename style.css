@@ -1,0 +1,108 @@
+/***** CSS *******/
+
+body{
+	font-family: 'Brush Script MT';
+	font-size: 40px;
+	text-align: center; 
+ 	background: linear-gradient(gray); /* couleur de fond en cyan vif */
+	background-image:url(https://images.frandroid.com/wp-content/uploads/2021/04/lifestyle11.jpg);
+	background-repeat:no-repeat;
+	filter: opacity(opacity: 30%);
+	background-size: cover;
+	background-attachment:fixed;
+	color:black;
+}
+
+
+div {
+  width: 200px;
+  height: 100px;
+}
+
+div {
+  width: 120px;
+  height: 120px;
+}
+h1,h2{
+	font-size:26px;
+	font-weight: small; /* taille normale */
+}
+
+h3{
+	font-size:50px;
+	font-weight: 1000; /* taille normale */
+	color: rgb(0,51,102); /* bleu vif */
+}
+
+h4 {
+    text-transform: uppercase; /* titre de niveau 4 en majuscule */
+    color: rgb(0,150,255); /* bleu vif */
+}
+
+}
+h5{ 
+	font-size: vw;
+	font-weight: small; /* taille normale */
+}
+
+
+
+p {
+    text-indent: 50px;
+    letter-spacing: 1px;
+white-space: nowrap;
+}
+
+
+.img1{
+	width: 592%;
+    display: block;
+position: relative;
+top: 0px; left: 0px;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+.img2{
+	width: 500%;
+    display: block;
+position: relative;
+top: 0px; left: 700px;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+.img3{
+	width: 500%;
+    display: block;
+position: relative;
+top: 0px; left: 1300px;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+.img4{
+	width: 1570%;
+    display: block;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ }
+
+.img5{
+	width: 100%;
+    display: block;
+    margin-left: auto; /* marge à gauche automatique */
+    margin-right: auto; /* marge à droite automatique */ 
+	opacity:0.4; }
+
+
+a { 
+font-size: 35px;
+    text-decoration: none;
+    color: #008CBA; /* bleu brillant */
+}
+footer{
+	height: 200px;
+	opacity: 0.6;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #000015; /* couleur de fond en gris clair */
+	border-top: 2px solid #AAA; /* bordure haute 2 pixels 
+	
+}
